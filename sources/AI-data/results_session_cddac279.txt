@@ -1,0 +1,17 @@
+--- Session: cddac279 | Model: gemini-robotics-er-1.5-preview ---
+ID              | Result     | Time     | Answer
+-----------------------------------------------------------------
+Practice 1      | PASS       | 20.43s   | Got B (Exp B)
+Practice 2      | PASS       | 9.98s   | Got A (Exp A)
+Task 1          | PASS       | 97.64s   | Got B (Exp B)
+Task 2          | FAIL       | 1.58s   | Got A (Exp C)
+Task 3          | FAIL       | 1.07s   | Got C (Exp A)
+Task 4          | FAIL       | 1.58s   | Got A (Exp C)
+Task 5          | FAIL       | 104.90s   | Got B (Exp A)
+Task 6          | FAIL       | 121.70s   | Got B (Exp C)
+Task 7          | PASS       | 1.37s   | Got C (Exp C)
+Task 8          | PASS       | 1.58s   | Got A (Exp A)
+Task 9          | PASS       | 1.70s   | Got C (Exp C)
+Task 10         | PASS       | 1.68s   | Got B (Exp B)
+-----------------------------------------------------------------
+Final Score: 7/12

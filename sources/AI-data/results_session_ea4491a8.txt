@@ -1,0 +1,17 @@
+--- Session: ea4491a8 | Model: gemini-robotics-er-1.5-preview ---
+ID              | Result     | Time     | Answer
+-----------------------------------------------------------------
+Practice 1      | PASS       | 23.76s   | Got B (Exp B)
+Practice 2      | PASS       | 6.20s   | Got A (Exp A)
+Task 1          | FAIL       | 165.95s   | Got C (Exp B)
+Task 2          | FAIL       | 76.77s   | Got A (Exp C)
+Task 3          | PASS       | 1.37s   | Got A (Exp A)
+Task 4          | PASS       | 1.28s   | Got C (Exp C)
+Task 5          | FAIL       | 1.48s   | Got B (Exp A)
+Task 6          | FAIL       | 1.29s   | Got A (Exp C)
+Task 7          | PASS       | 118.41s   | Got C (Exp C)
+Task 8          | PASS       | 1.99s   | Got A (Exp A)
+Task 9          | FAIL       | 1.89s   | Got A (Exp C)
+Task 10         | FAIL       | 1.99s   | Got C (Exp B)
+-----------------------------------------------------------------
+Final Score: 6/12

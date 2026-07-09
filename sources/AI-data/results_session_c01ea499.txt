@@ -1,0 +1,17 @@
+--- Session: c01ea499 | Model: gemini-2.5-pro ---
+ID              | Result     | Time     | Answer
+-----------------------------------------------------------------
+Practice 1      | PASS       | 21.84s   | Got B (Exp B)
+Practice 2      | PASS       | 13.53s   | Got A (Exp A)
+Task 1          | FAIL       | 138.39s   | Got C (Exp B)
+Task 2          | FAIL       | 13.97s   | Got A (Exp C)
+Task 3          | FAIL       | 42.06s   | Got C (Exp A)
+Task 4          | FAIL       | 86.78s   | Got B (Exp C)
+Task 5          | FAIL       | 101.53s   | Got B (Exp A)
+Task 6          | FAIL       | 145.76s   | Got B (Exp C)
+Task 7          | FAIL       | 131.22s   | Got B (Exp C)
+Task 8          | FAIL       | 30.36s   | Got C (Exp A)
+Task 9          | PASS       | 28.01s   | Got C (Exp C)
+Task 10         | FAIL       | 16.54s   | Got C (Exp B)
+-----------------------------------------------------------------
+Final Score: 3/12

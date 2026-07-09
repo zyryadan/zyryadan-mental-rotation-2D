@@ -1,0 +1,17 @@
+--- Session: a27e2a2f | Model: gemini-2.5-pro ---
+ID              | Result     | Time     | Answer
+-----------------------------------------------------------------
+Practice 1      | PASS       | 12.24s   | Got B (Exp B)
+Practice 2      | PASS       | 5.99s   | Got A (Exp A)
+Task 1          |  FAIL     | 141.52s   | Got C (Exp B)
+Task 2          |  PASS     | 83.88s   | Got C (Exp C)
+Task 3          |  FAIL     | 53.09s   | Got C (Exp A)
+Task 4          |  FAIL     | 33.64s   | Got B (Exp C)
+Task 5          |  PASS     | 47.97s   | Got A (Exp A)
+Task 6          |  FAIL     | 96.30s   | Got B (Exp C)
+Task 7          |  PASS     | 77.05s   | Got C (Exp C)
+Task 8          |  FAIL     | 34.46s   | Got C (Exp A)
+Task 9          |  FAIL     | 8.80s   | Got A (Exp C)
+Task 10         |  FAIL     | 12.18s   | Got C (Exp B)
+-----------------------------------------------------------------
+Final Score: 5/12
